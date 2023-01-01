@@ -7,4 +7,3 @@ First, please do the following:
   edit the 'path' variable underneath the import statements in the main file, 
       to correspond to the location on your pc where you would like the data 
       folder to be located.
-  add your name in a single line comment in the main file
